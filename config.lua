@@ -223,7 +223,7 @@ Config.Apartments = {
         interiorCoords = vector3(-682.02093505859, 592.21136474609, 145.39303588867), -- Where the player will spawn when they enter
         exitCoords = vector3(-682.02093505859, 592.21136474609, 145.39303588867), -- Where the marker to exit will be drawn
         Locked = true, -- Is the apartment locked
-        Passcode = '9496' -- Passcode to unlock the apartment
+        Passcode = '1234' -- Passcode to unlock the apartment
     },
 
     ----------------------------------------------- PERSONAL HOUSES -----------------------------------------------
@@ -247,7 +247,7 @@ Config.Apartments = {
         interiorCoords = vector3(373.78582763672, 423.82760620117, 145.90786743164), -- Where the player will spawn when they enter
         exitCoords = vector3(373.78582763672, 423.82760620117, 145.90786743164), -- Where the marker to exit will be drawn
         Locked = true, -- Is the apartment locked
-        Passcode = '3951' -- Passcode to unlock the apartment
+        Passcode = '1234' -- Passcode to unlock the apartment
     },
     {
         -- Dobbs's House (2044 North Conker Avenue)
@@ -258,7 +258,7 @@ Config.Apartments = {
         interiorCoords = vector3(340.9412, 437.1798, 149.3925), -- Where the player will spawn when they enter
         exitCoords = vector3(340.9412, 437.1798, 149.3925), -- Where the marker to exit will be drawn
         Locked = true, -- Is the apartment locked
-        Passcode = '2630' -- Passcode to unlock the apartment
+        Passcode = '1234' -- Passcode to unlock the apartment
     },
     {
         -- Bobby's House (3655 Wild Oats Drive)
@@ -269,6 +269,6 @@ Config.Apartments = {
         interiorCoords = vector3(-174.11526489258, 497.11892700195, 137.66697692871), -- Where the player will spawn when they enter
         exitCoords = vector3(-174.11526489258, 497.11892700195, 137.66697692871), -- Where the marker to exit will be drawn
         Locked = true, -- Is the apartment locked
-        Passcode = '3256' -- Passcode to unlock the apartment
+        Passcode = '1234' -- Passcode to unlock the apartment
     }
 }
